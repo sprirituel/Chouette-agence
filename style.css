@@ -647,11 +647,16 @@ h5,
 h6,
 p,
 label,
-.btn,
-a {
+.btn{
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
+}
+
+a{
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #000000!important;
 }
 
 .container {
@@ -735,8 +740,8 @@ h4 {
     margin-top: 24px;
 }
 
-.white {
-    color: #FFFFFF!important;
+.black {
+    color: #000000!important;
 }
 
 .portfolio-thumb {
@@ -779,7 +784,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #C34B13;
     color: #FFFFFF!important;
 }
 
