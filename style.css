@@ -650,7 +650,7 @@ label,
 .btn{
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black!important;
 }
 
 a{
@@ -781,6 +781,10 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
+}
+
+.tc-white2 {
+    color: black!important;
 }
 
 .btn-atomic-tangerine {
